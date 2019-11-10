@@ -1,5 +1,7 @@
 # ddvue
 
+it's copy from https://github.com/wxjaa/ddvue, because it is private to clone.
+
 > 用vue仿照钉钉的审批设计器 [实例](https://wxjaa.github.io/dingding/)
 ## Build Setup
 
